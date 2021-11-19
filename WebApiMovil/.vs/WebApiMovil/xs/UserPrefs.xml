@@ -1,18 +1,17 @@
 ﻿<Properties StartupConfiguration="{04E75ED2-1646-4541-AFD8-A8BA8F9137F0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiMovil/Models/RedesSociales.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiMovil/Services/IUploadService.cs">
     <Files>
       <File FileName="WebApiMovil/Models/Persona.cs" Line="1" Column="1" />
-      <File FileName="WebApiMovil/Models/CatTipoPersona.cs" Line="1" Column="1" />
+      <File FileName="WebApiMovil/Models/CatTipoPersona.cs" />
       <File FileName="WebApiMovil/Models/RedesSociales.cs" Line="1" Column="1" />
+      <File FileName="WebApiMovil/Services/IUploadService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebApiMovil" expanded="True">
             <Node name="WebApiMovil" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="RedesSociales.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

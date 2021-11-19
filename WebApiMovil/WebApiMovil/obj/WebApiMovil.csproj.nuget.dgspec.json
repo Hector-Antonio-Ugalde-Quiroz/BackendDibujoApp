@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj": {}
+    "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj": {}
   },
   "projects": {
-    "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj": {
+    "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
+        "projectUniqueName": "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
         "projectName": "WebApiMovil",
-        "projectPath": "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
+        "projectPath": "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
         "packagesPath": "/Users/alexuwu/.nuget/packages/",
-        "outputPath": "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/obj/",
+        "outputPath": "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexuwu/.config/NuGet/NuGet.Config"
