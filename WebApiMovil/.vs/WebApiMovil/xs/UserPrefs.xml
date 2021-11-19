@@ -3,15 +3,16 @@
     <Files>
       <File FileName="WebApiMovil/Models/Persona.cs" Line="1" Column="1" />
       <File FileName="WebApiMovil/Models/CatTipoPersona.cs" />
-      <File FileName="WebApiMovil/Models/RedesSociales.cs" Line="1" Column="1" />
+      <File FileName="WebApiMovil/Models/RedesSociales.cs" />
       <File FileName="WebApiMovil/Services/IUploadService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebApiMovil" expanded="True">
-            <Node name="WebApiMovil" expanded="True">
-              <Node name="Services" expanded="True" selected="True" />
+            <Node name="WebApiMovil" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kRYuPOG3ZPGRFxlO5uYAX8RJBl0aKTAXpg5oowSmCq/ONexd8LSvboJbEX1thqVoRuv+NtLnGIV3mJjo3XJVcQ==",
+  "dgSpecHash": "XPIj9nIcGJ5wVKNcb27Tv7PzPDoxYYGpCeKV2DW9ES6LuMnivLLG3QD25lJMZu3aLv3jcqXoMua8Cu5HVj4Cmg==",
   "success": true,
-  "projectFilePath": "/Users/alexuwu/ProyectsGit/CopiaBackendDibujoApp/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
+  "projectFilePath": "/Users/alexuwu/ProyectsGit/BackendDibujoApp/WebApiMovil/WebApiMovil/WebApiMovil.csproj",
   "expectedPackageFiles": [
     "/Users/alexuwu/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/alexuwu/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
