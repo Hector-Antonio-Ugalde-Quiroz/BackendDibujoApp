@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{04E75ED2-1646-4541-AFD8-A8BA8F9137F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiMovil/Models/RedesSociales.cs">
+    <Files>
+      <File FileName="WebApiMovil/Models/Persona.cs" Line="1" Column="1" />
+      <File FileName="WebApiMovil/Models/CatTipoPersona.cs" Line="1" Column="1" />
+      <File FileName="WebApiMovil/Models/RedesSociales.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApiMovil" expanded="True">
+            <Node name="WebApiMovil" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="RedesSociales.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebApiMovil FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WebApiMovil FirstBuild="True" PreferredExecutionTarget="/Applications/Firefox.app" />
 </Properties>
